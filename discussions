@@ -59,3 +59,20 @@ Things in motion :
 1.4 Daily updates would be defaulted to 09:00 PM US timings. It would be short calls 5- 15 minutes.
 
 
+Tools and technologies required for this project :
+> AWS for final deployment -- Need to discuss on final prod env.
+> GITHUB as code repository
+> Node.js for DB connectivity
+> Java for backend / microservices / spring boot / Apache Camel
+> Angular for frontend
+> MongoDB  as database
+> Build Tool :  Gradle (Maven central)
+> Continuous Integration : Bamboo / Jenkins
+> Continuous Deployment : local server for development/test env PROD would be on AWS/VPS. -- Ansible / Puppet + Chef
+> Security : Self signed certificates for SSL / application TCP certificates / Load balancers  (For AWS PROD we'll contact JD)
+> Caching: Redis
+> Chat: Socket.io
+> Mobile: Ionic (Hybrid)
+> Analytics: Google Analytics / Tableau / Mixpanel (Need more research) / Splunk / ELK / Apache Spark
+> Digital Marketing : SEO / Contents / Blocks / Social Gateway Marketing / Offline channels 
+> I18N - Support for multiple languages.
