@@ -17,6 +17,9 @@ Requirements :
 11. User Settings should be part of user profile where user can set the visibility.
 12. 
 
+IMAGE
+![Version 1 ROAMAP](static_content/images/WhatsApp Image 2018-03-08 at 11.36.38.jpeg)
+
 Notes :
 1) If the user wanted to add multiple accounts which could be random would be a paid service.
 2) 
