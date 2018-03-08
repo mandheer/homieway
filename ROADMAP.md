@@ -17,7 +17,7 @@ Requirements :
 11. User Settings should be part of user profile where user can set the visibility.
 12. 
 
-###IMAGE
+### IMAGE
 ![Version_1_ROAMAP](static_content/images/version1_roadmap.jpeg)
 
 Notes :
