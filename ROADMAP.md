@@ -15,7 +15,7 @@ Requirements :
 9. User blocking / see or view profiles
 10. User should have time limit - temporary time request to add/reject otherwise the request would get invalidated automatically.
 11. User Settings should be part of user profile where user can set the visibility.
-12. User History should be preserved
+12. User History should be preserved by creating user history table
 
 ### IMAGE
 ![Version_1_ROAMAP](static_content/images/version1_roadmap.jpeg)
